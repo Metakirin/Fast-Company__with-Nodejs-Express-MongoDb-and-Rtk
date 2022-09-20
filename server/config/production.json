@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://Metakirin:200328klim@fast-company.dtatwjw.mongodb.net/app?retryWrites=true&w=majority",
+  "accessSecret": "superSecret from backend",
+  "refreshSecret": "super refresh key"
+}
