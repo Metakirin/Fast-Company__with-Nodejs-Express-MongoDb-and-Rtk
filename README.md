@@ -22,6 +22,8 @@
   > **ExpressJs**. [view](http://expressjs.com/) ![1_XP-mZOrIqX7OsFInN2ngRQ](https://user-images.githubusercontent.com/65970612/191294660-289c8c92-9786-4b22-ab50-6b3d20e15dea.png)
 
   > **MongoDB atlas**. [view](https://www.mongodb.com/atlas) ![mongodb-atlas](https://user-images.githubusercontent.com/65970612/191304016-1af281cb-1a32-477d-a7dc-0923ba27e9e2.png)
+  
+  > **Docker**. [view](https://www.docker.com/)![Docker-Symbol](https://user-images.githubusercontent.com/65970612/191305289-79365b03-ab2b-4bf5-a530-425302572061.png)
 
  ***Addon techs:***
    - [Chalk](https://www.npmjs.com/package/chalk)
