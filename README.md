@@ -19,9 +19,9 @@
 ### Server part:
   > **NodeJs**. [view](https://nodejs.org/en/) ![1280px-Node js_logo svg](https://user-images.githubusercontent.com/65970612/191293665-49c6396c-edae-4c36-be69-3a57c808c76b.png)
   
-  > **ExpressJs**. [view](http://expressjs.com/) ![1_XP-mZOrIqX7OsFInN2ngRQ](https://user-images.githubusercontent.com/65970612/191294660-289c8c92-9786-4b22-ab50-6b3d20e15dea.png)
+  > **ExpressJs**. [view](http://expressjs.com/) ![1_XP-mZOrIqX7OsFInN2ngRQ](https://user-images.githubusercontent.com/65970612/191558549-109a8ca1-9ced-4dfe-b53e-cb2168b52908.png)
 
-  > **MongoDB atlas**. [view](https://www.mongodb.com/atlas) ![mongodb-atlas](https://user-images.githubusercontent.com/65970612/191304016-1af281cb-1a32-477d-a7dc-0923ba27e9e2.png)
+  > **MongoDB atlas**. [view](https://www.mongodb.com/atlas) ![mongodb-atlas](https://user-images.githubusercontent.com/65970612/191558519-efa9748a-aab9-44ff-a52d-3e36074e4f02.png)
   
   > **Docker**. [view](https://www.docker.com/)![Docker-Symbol](https://user-images.githubusercontent.com/65970612/191305289-79365b03-ab2b-4bf5-a530-425302572061.png)
 
