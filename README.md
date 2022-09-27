@@ -1,6 +1,8 @@
 ## Fullstack app with a part of the functionality of the social dating network written with React, NodeJs, MongoDB and Docker container.
 # Main tech Stack used:
 ### Client part:
+ In developing client part were used various patterns and practices you can view inside, but just to note most popular of them:
+ Priavte routes, custom http services, interceptors and sessions with jwt, mock data, OOP and others.
   > **React**. [view](https://reactjs.org/) ![atom](https://user-images.githubusercontent.com/65970612/191053120-127b5428-8740-4e10-8c90-a54cf3af287c.png)
 
   > **Redux.** [view](https://redux.js.org/) ![5848309bcef1014c0b5e4a9a](https://user-images.githubusercontent.com/65970612/191054042-b93c9247-1c9d-4688-8374-5a67913bbab4.png)
