@@ -19,7 +19,7 @@
 ##
 
 ### Server part:
-In developing server part were used classic approach with models, services, routes and sessions with jwt.
+In developing server part were used classic approach with models, services, routes, middlewares and sessions with jwt.
   > **NodeJs**. [view](https://nodejs.org/en/) ![1280px-Node js_logo svg](https://user-images.githubusercontent.com/65970612/191293665-49c6396c-edae-4c36-be69-3a57c808c76b.png)
   
   > **ExpressJs**. [view](http://expressjs.com/) ![1_XP-mZOrIqX7OsFInN2ngRQ](https://user-images.githubusercontent.com/65970612/191558549-109a8ca1-9ced-4dfe-b53e-cb2168b52908.png)
