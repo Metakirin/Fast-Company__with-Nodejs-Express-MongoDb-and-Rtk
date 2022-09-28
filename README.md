@@ -2,7 +2,7 @@
 # Main tech Stack used:
 ### Client part:
  In developing client part were used various patterns and practices you can view inside, but just to note most popular of them:
- Priavte routes, custom http services, interceptors and sessions with jwt, mock data, OOP and others.
+ Priavte routes, custom http services, interceptors for sessions with jwt, mock data, OOP and others.
   > **React**. [view](https://reactjs.org/) ![atom](https://user-images.githubusercontent.com/65970612/191053120-127b5428-8740-4e10-8c90-a54cf3af287c.png)
 
   > **Redux.** [view](https://redux.js.org/) ![5848309bcef1014c0b5e4a9a](https://user-images.githubusercontent.com/65970612/191054042-b93c9247-1c9d-4688-8374-5a67913bbab4.png)
@@ -19,6 +19,7 @@
 ##
 
 ### Server part:
+In developing server part were used classic approach with models, services, routes and sessions with jwt.
   > **NodeJs**. [view](https://nodejs.org/en/) ![1280px-Node js_logo svg](https://user-images.githubusercontent.com/65970612/191293665-49c6396c-edae-4c36-be69-3a57c808c76b.png)
   
   > **ExpressJs**. [view](http://expressjs.com/) ![1_XP-mZOrIqX7OsFInN2ngRQ](https://user-images.githubusercontent.com/65970612/191558549-109a8ca1-9ced-4dfe-b53e-cb2168b52908.png)
